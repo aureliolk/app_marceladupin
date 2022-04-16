@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anaminese Sheet</title>
+    <style>
+        .table{
+            width: 100%;
+        }
+        .row{
+            border: 1px solid;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            height: 40px;
+        }
+        .cell {
+            flex: 1;
+            height: 100%;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            border-right: 1px solid;
+            border-left: 1px solid;
+            padding: 0 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Anamnesis Sheet</h1>
+    <h2>Personal Data</h2>
+    <div class="table">
+        <div class="row">
+            <div class="cell"><strong>Full name:</strong> %first_name% %last_name%</div>
+            <div class="cell"><strong>Date of Birth:</strong>%date_of_birth%</div>
+            <div class="cell"><strong>Dated:</strong>%dated%</div>
+        </div>
+        <div class="row">
+            <div class="cell"><strong>Contact:</strong>%contact%</div>
+            <div class="cell"><strong>Emergency contact:</strong>%emergency_contact%</div>
+        </div>
+        <div class="row">
+            <div class="cell"><strong>Address:</strong>%address%</div>
+            <div class="cell"><strong>Postal code:</strong>%postal_code%</div>
+        </div>
+        <div class="row">
+            <div class="cell"><strong>E-mail:</strong>%user_email%</div>
+        </div>
+    </div>
+    <h2>Terms And Conditions</h2>
+    <div class="table">
+        <div class="row">
+            <div class="cell"><strong>Have You Had Aesthetic Treatments?</strong></div>
+            <div class="cell"><strong>R:</strong> %aesthetic_treatments%</div>
+        </div>
+        <div class="row">
+            <div class="cell"><strong>Do You Use Antibiotics?</strong></div>
+            <div class="cell"><strong>R:</strong> %use_antibiotics%</div>
+        </div>
+        <div class="row">
+            <div class="cell"><strong>Do You Have Allergies?</strong></div>
+            <div class="cell"><strong>R:</strong> %have_allergies%</div>
+        </div>
+        <div class="row">
+            <div class="cell"><strong>Do You Have Health Problems? (Blood Pressure Problems, Etc?)</strong></div>
+            <div class="cell"><strong>R:</strong> %health_problems%</div>
+        </div>
+        <div class="row">
+            <div class="cell"><strong>If Yes, Do You Have A Chronic Disease?</strong></div>
+            <div class="cell"><strong>R:</strong> %chronic_disease%</div>
+        </div>
+        <div class="row">
+            <div class="cell"><strong>Do You Use Medical Prescription Medicines?</strong></div>
+            <div class="cell"><strong>R:</strong>  %prescription_medicines%</div>
+        </div>
+        <div class="row">
+            <div class="cell"><strong>Do You Consume Alcohol Drinks, Tobacco Or Other Arcotics?</strong></div>
+            <div class="cell"><strong>R:</strong> %consume_alcohol_drinks_tobacco%</div>
+        </div>
+        <div class="row">
+            <div class="cell"><strong>Are You Pregnant Or Breastfeeding?</strong></div>
+            <div class="cell"><strong>R:</strong> %pregnant_or_breastfeeding%</div>
+        </div>
+        <div class="row">
+            <div class="cell"><strong>Do You Have Anything To Report With My Risk Of Pregnant Pregnancy?</strong></div>
+            <div class="cell"><strong>R:</strong> %report_with_my_risk%</div>
+        </div>
+        <div class="row">
+            <div class="cell"><strong>Do You Have A Prosthesis?</strong></div>
+            <div class="cell"><strong>R:</strong> %have_a_prosthesis%</div>
+        </div>
+        <div class="row">
+            <div class="cell"><strong>Do You Have Any Other Observations To Report?</strong></div>
+            <div class="cell"><strong>R:</strong> %observations_to_report%</div>
+        </div>
+    </div>
+</body>
+</html>
+

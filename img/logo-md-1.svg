@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="799.99982mm"
+   height="164.62634mm"
+   viewBox="0 0 799.99982 164.62634"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="logo-md.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.099568079"
+     inkscape:cx="3269.12"
+     inkscape:cy="1978.5458"
+     inkscape:window-width="1366"
+     inkscape:window-height="734"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="89.300339"
+       y="377.53683"
+       width="224.33905"
+       height="188.20277"
+       id="rect5270" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-18.776702,-26.17448)">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text5268"
+       style="font-size:24px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;white-space:pre;shape-inside:url(#rect5270)" />
+    <text
+       xml:space="preserve"
+       style="font-size:215.71px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;fill:#a79e9e;fill-opacity:1;stroke-width:8.98786"
+       x="4.3468819"
+       y="187.95699"
+       id="text6530"><tspan
+         sodipodi:role="line"
+         id="tspan6528"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Pattaya;-inkscape-font-specification:Pattaya;fill:#a79e9e;fill-opacity:1;stroke-width:8.98786"
+         x="4.3468819"
+         y="187.95699">MD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:82.1686px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;fill:#50414a;fill-opacity:1;stroke-width:3.42368"
+       x="332.6658"
+       y="109.82516"
+       id="text13320"><tspan
+         sodipodi:role="line"
+         id="tspan13318"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Pattaya;-inkscape-font-specification:Pattaya;fill:#50414a;fill-opacity:1;stroke-width:3.42368"
+         x="332.6658"
+         y="109.82516">Marcela Dupin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:63.8051px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;fill:#664950;fill-opacity:1;stroke-width:2.65853"
+       x="344.8956"
+       y="168.34355"
+       id="text20950"><tspan
+         sodipodi:role="line"
+         id="tspan20948"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';fill:#664950;fill-opacity:1;stroke-width:2.65853"
+         x="344.8956"
+         y="168.34355">Massage a Domicile</tspan></text>
+  </g>
+</svg>
