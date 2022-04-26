@@ -47,3 +47,29 @@ Massagens suaves promove um profundo estado de relaxamento e diminui o estresse 
 A Marcela Dupin vem transformando a vida de milhares de garotas, e está se tornando a preferida entre sua clientes. Atuando no mercado a 14 anos se especializou em metodos que inclui novos tipos de manobra, ritimos, bombeamentos e pressão. 
 Esses novos metodos de massagen trazem resultados mais eficazes do que os metodos tradicionais, elevando a auto estima de milhares de suas clientes.
 
+-- Ficha em Françes 
+
+avez-vous fait des traitements esthétiques? 
+
+utilisez-vous des antibiotiques?
+
+avez-vous des allergies? 
+
+avez-vous des problèmes de santé?
+(problèmes de pression artérielle,etc?)
+
+sioui,avez-vous une maladie chronique?
+
+utilisez-vous des médicaments sur ordonnance médicale?
+
+consommez-vous des boissons alcoolisées,du tabac
+ou d'autres substances narcotiques?
+
+êtes-vous enceinte ou allaitante?
+
+avez-vous quelque chose à signaler avec
+moi risque de grossesse enceinte? 
+
+avez-vous une prothèse? 
+
+avez-vous d'autres observations à signaler?

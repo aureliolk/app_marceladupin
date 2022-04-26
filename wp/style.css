@@ -6,14 +6,17 @@
  * Description:    A plain-vanilla
  */
 
-
- .jet-apb-calendar-wrapper {
+.jet-apb-calendar-wrapper {
     display: flex;
     flex-direction: column;
     align-items: center;
     width: 100%;
     border: 1px solid #e9e8e8ba;
     border-radius: 5px;
+}
+
+.appointment-calendar.jet-apb-calendar {
+    width: 100%!important;
 }
 
 .jet-apb-calendar-appointments-list-wrapper {
@@ -32,4 +35,31 @@
     justify-content: space-around;
     font-size: 16px;
     font-family: 'EB Garamond';
+}
+
+
+/*
+    CHECKOUT
+*/
+
+tr.cart_item {
+    display: flex;
+    flex-direction: column;
+}
+
+td.product-name-area {
+    width: 100%!important;
+}
+
+td.product-total {
+    display: none;
+}
+
+@media (max-width:767px) {
+    .elementor-644 .elementor-element.elementor-element-649d4be {
+        width: 100%!important;
+    }
+    .elementor-644 .elementor-element.elementor-element-ee3af14 {
+        width: 100%!important;
+    }
 }
