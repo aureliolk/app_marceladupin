@@ -6,6 +6,7 @@
  * Description:    A plain-vanilla
  */
 
+
 .jet-apb-calendar-wrapper {
     display: flex;
     flex-direction: column;
@@ -35,6 +36,29 @@
     justify-content: space-around;
     font-size: 16px;
     font-family: 'EB Garamond';
+}
+
+
+.jet-form__label,
+.jet-apb-calendar-week {
+    font-weight: bold;
+}
+
+label.jet-form__field-label {
+    font-size: 13px;
+}
+
+.jet-form__fields-group.checkradio-wrap {
+    display: flex;
+    gap: 1rem;
+}
+
+.appointment-calendar.jet-apb-calendar {
+    background: #a1a1a117;
+}
+
+.jet-apb-calendar-header {
+    font-weight: 900;
 }
 
 

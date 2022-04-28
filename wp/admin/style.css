@@ -1,0 +1,25 @@
+.cx-vui-popup__body {
+    height: 75vh;
+    width: 30rem!important;
+}
+
+.cx-vui-popup__content {
+    height: 90%;
+}
+
+.jet-apb-details.jet-apb-details-info {
+    height: 90%!important;
+}
+
+.jet-apb-details-fields {
+    height: 23rem;
+}
+
+.jet-apb-details__item.jet-apb-details__item-user_id,
+.jet-apb-details__item.jet-apb-details__item-user_name {
+    display: none!important;
+}
+
+.jet-apb-details__item.jet-apb-details__item-user_email {
+    margin-top: 2rem;
+}
