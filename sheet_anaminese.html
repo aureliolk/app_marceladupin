@@ -1,21 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Anaminese Sheet</title>
     <style>
-        .table{
+        .table {
             width: 100%;
         }
-        .row{
+
+        .row {
             border: 1px solid;
             display: flex;
             justify-content: space-between;
             align-items: center;
             height: 40px;
         }
+
         .cell {
             flex: 1;
             height: 100%;
@@ -26,8 +29,27 @@
             border-left: 1px solid;
             padding: 0 10px;
         }
+
+        @media (max-width: 768px) {
+
+            h1,
+            h2 {
+                text-align: center;
+            }
+
+            .row {
+                height: 85px;
+                flex-direction: column;
+                padding: 5px 25px;
+            }
+
+            .cell {
+                border: none;
+            }
+        }
     </style>
 </head>
+
 <body>
     <h1>Anamnesis Sheet</h1>
     <h2>Personal Data</h2>
@@ -73,7 +95,7 @@
         </div>
         <div class="row">
             <div class="cell"><strong>Do You Use Medical Prescription Medicines?</strong></div>
-            <div class="cell"><strong>R:</strong>  %prescription_medicines%</div>
+            <div class="cell"><strong>R:</strong> %prescription_medicines%</div>
         </div>
         <div class="row">
             <div class="cell"><strong>Do You Consume Alcohol Drinks, Tobacco Or Other Arcotics?</strong></div>
@@ -97,5 +119,5 @@
         </div>
     </div>
 </body>
-</html>
 
+</html>

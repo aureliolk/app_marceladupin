@@ -3,11 +3,11 @@ console.log("You is Developer")
 
 
 
-var observer = new MutationObserver(closeButton)
+var observer = new MutationObserver(changeBody)
 var config = { childList: true, attributes: true };
 var targetBody = document.body
 
-function closeButton() {
+function changeBody() {
     var target = document.querySelector(".dialog-close-button i.eicon-close")
     if (target) {
         target.addEventListener("click", () => {

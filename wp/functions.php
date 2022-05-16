@@ -33,8 +33,9 @@ add_action( 'wp_footer', 'googleTagManager' );
  */
 
 
+/* Function for Admin Page */
 function load_custom_wp_admin_style() {
-	$ver = 1.9;
+	$ver = 2.1;
 
 	wp_enqueue_style( 'child-admin-style', get_stylesheet_directory_uri() . '/admin/style.css',"",$ver);
 	wp_enqueue_script( 'custon-script', get_stylesheet_directory_uri() . '/admin/script.js',array('jquery'),$ver,true);
